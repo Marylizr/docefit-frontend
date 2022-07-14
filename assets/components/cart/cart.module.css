@@ -1,0 +1,16 @@
+  .cart{   
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+
+h3{   
+  text-align: center;
+}
+
+p{   
+  text-align: center;
+}
